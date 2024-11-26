@@ -23,6 +23,10 @@
 #define MATRIX_ROWS 5
 #define MATRIX_COLS 12
 
+// for SM_TD https://github.com/stasmarkin/sm_td
+#define MAX_DEFERRED_EXECUTORS 10
+#define BOTH_SHIFTS_TURNS_ON_CAPS_WORD
+
 // #define LAYOUT_all LAYOUT_default
 // KLE:
 // [{x:0.5},"0,0","0,1","0,2","0,3","0,4","0,5",{x:6.5},"0,6","0,7","0,8","0,9","0,10","0,11"],
