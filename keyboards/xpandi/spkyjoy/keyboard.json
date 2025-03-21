@@ -1,0 +1,32 @@
+{
+    "manufacturer": "hypan599",
+    "keyboard_name": "spkyjoy",
+    "maintainer": "hypan599",
+    "bootloader": "rp2040",
+    "diode_direction": "COL2ROW",
+    "features": {
+        "bootmagic": true,
+        "command": false,
+        "console": false,
+        "extrakey": false,
+        "mousekey": true,
+        "nkro": false
+    },
+    "matrix_pins": {
+        "direct": [["GP15"]]
+    },
+    "processor": "RP2040",
+    "url": "https://github.com/hypan599/spky",
+    "usb": {
+        "device_version": "1.0.0",
+        "pid": "0x0000",
+        "vid": "0xFEED"
+    },
+    "layouts": {
+        "LAYOUT_default": {
+            "layout": [
+                { "matrix": [0, 0], "x": 0, "y": 0 }
+            ]
+        }
+    }
+}
