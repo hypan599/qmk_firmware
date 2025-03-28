@@ -14,7 +14,7 @@
     },
     "matrix_pins": {
         "cols": ["GP7", "GP2", "GP3", "GP4", "GP6", "GP5", "GP21", "GP22", "GP20", "GP19", "GP18", "GP13"],
-        "rows": ["GP8", "GP9", "GP11", "GP10", "GP12"]
+        "rows": ["GP9", "GP11", "GP10", "GP12"]
     },
     "processor": "RP2040",
     "url": "https://github.com/hypan599/spky",
